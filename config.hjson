@@ -1,0 +1,33 @@
+{
+  // Betterbot config
+
+  // Anmeldedaten für Bettermarks
+
+    username: REPLACE_THIS
+    password: REPLACE_THIS
+
+  // Wie viele runs im Buffer gespeichert werden
+  // Mehr = Genauer
+
+    coins_buffersize: 100
+
+  // Anzahl der Nachkommastellen
+
+    rounding_amount: 2
+
+  // Da der sound nervig ist
+  // "true" zum muten, "false" zum hören.
+
+    sound_muted: true
+
+  // Die URL zur Login-Seite von Bettermarks
+
+    url: https://school.bettermarks.com/app/login.html?system=DE_bettermarks&kong=true
+
+  // Version - nicht ändern!
+
+    version: 0.5
+
+  // Gemacht von Zohiu
+  // 2022, erste Hälfte
+}
